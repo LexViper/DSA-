@@ -18,6 +18,6 @@ public class reverse {
             reverse = reverse*10+rem;
         }
         System.out.println("The reversed number "+reverse);
-    
+    sc.close();
     }
 }
